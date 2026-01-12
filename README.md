@@ -44,6 +44,3 @@ Développement d'une solution web complète pour la gestion d'un Bureau des Étu
 <a href="https://www.linkedin.com/in/romain-cantor-502805317/">
   <img src="https://img.shields.io/badge/LinkedIn-Romain_Cantor-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="mailto:ton-email@exemple.com">
-  <img src="https://img.shields.io/badge/Email-Me_Contacter-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
