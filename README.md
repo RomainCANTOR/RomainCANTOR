@@ -22,7 +22,7 @@
 
 ---
 
-### 🚀 Projet en Vedette : Plateforme de Gestion BDE
+### 🚀 Mes principaux projets
 
 Développement d'une solution web complète pour la gestion d'un Bureau des Étudiants.
 
