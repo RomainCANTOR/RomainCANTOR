@@ -1,6 +1,6 @@
 # Salut, je suis Romain CANTOR ! 👋
 
-### 🎓 Étudiant en 2ème année de BUT Informatique  IUT d'Aix-Marseille, à la recherche d'un stage de 10 semaines
+### 🎓 Étudiant en 2ème année de BUT Informatique IUT d'Aix-Marseille, à la recherche d'un stage de 10 semaines
 ### 📍 Basé à Aix-en-Provence, France
 
 ---
@@ -12,7 +12,7 @@
 <br/>
 
 🔭 Actuellement à la recherche d'un **stage** (Développement Logiciel / Web).  
-🌱 Passionné par les nouvelles technologiese et la conception d'applications complètes.
+🌱 Passionné par les nouvelles technologies et la conception d'applications complètes.
 
 ---
 
@@ -24,12 +24,19 @@
 
 ### 🚀 Mes principaux projets
 
+#### 💣 [Bomberman - SAE 2.01](https://github.com/a24016284/SAE_201_G2_3/tree/main)
+> *Adaptation moderne du célèbre jeu d'arcade développée en JavaFX.*
+
+* **Technologies :** Java, JavaFX, CSS.
+* **Fonctionnalités :** Modes Solo (Survie) et Multijoueur, IA des ennemis, génération procédurale, personnalisation des skins.
+* **Mon rôle :** Développement de la logique de jeu et de l'interface utilisateur.
+
 ---
-(A compléter) 
+
 ### 📊 Statistiques GitHub
 
-<img src="https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&theme=tokyonight&locale=fr&hide_border=true" alt="Romain's Stats" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_USERNAME&layout=compact&theme=tokyonight&locale=fr&hide_border=true" alt="Top Langs" height="180" />
+<img src="https://github-readme-stats.vercel.app/api?username=RomainCANTOR&show_icons=true&theme=tokyonight&locale=fr&hide_border=true" alt="Romain's Stats" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RomainCANTOR&layout=compact&theme=tokyonight&locale=fr&hide_border=true" alt="Top Langs" height="180" />
 
 ---
 
