@@ -12,7 +12,7 @@
 <br/>
 
 🔭 Actuellement à la recherche d'un **stage** (Développement Logiciel / Web).  
-🌱 Passionné par la conception d'applications complètes, du back-end à l'interface utilisateur.
+🌱 Passionné par les nouvelles technologiese et la conception d'applications complètes.
 
 ---
 
