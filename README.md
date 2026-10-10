@@ -1,6 +1,6 @@
 # Salut, je suis Romain CANTOR ! 👋
 
-### 🎓 Étudiant en 2ème année de BUT Informatique  IUT d'Aix-Marseille
+### 🎓 Étudiant en 3ème année de BUT Informatique  IUT d'Aix-Marseille
 ### 📍 Basé à Aix-en-Provence, France
 
 ---
