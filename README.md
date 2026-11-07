@@ -17,7 +17,7 @@
 
 ## 👨‍💻 À propos de moi
 
-- 🔭 Actuellement à la recherche d'un **stage** de 10 semaines en Développement Logiciel / Web.
+- 🔭 Actuellement à la recherche d'un **stage** de 16 semaines en Data Analyst & Développement Logiciel / Web.
 - 🌱 Passionné par les nouvelles technologies, l'automatisation et la conception d'applications complètes.
 - 💡 J'aime résoudre des problèmes complexes avec des solutions pragmatiques et optimisées.
 
