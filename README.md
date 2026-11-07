@@ -2,6 +2,7 @@
 
 ### 🎓 Étudiant en 3ème année de BUT Informatique  IUT d'Aix-Marseille
 ### 📍 Basé à Aix-en-Provence, France
+### 🌍 Mon Portfolio : [romain-cantor.netlify.app](https://romain-cantor.netlify.app/)
 
 ---
 
@@ -27,16 +28,22 @@
 #### 🌐 [BdeLive - Plateforme de Gestion BDE](https://github.com/AHAMED-Nasser/BdeLive)
 > *Application web complète pour la gestion de la vie associative étudiante.*
 
-* **Technologies :** PHP (Architecture MVC), HTML5, CSS3, SQL.
-* **Fonctionnalités :** Back-office administrateur complet, système d'événements et d'actualités, gestion des inscriptions (individuelles/groupe), génération de listes PDF, espace membre sécurisé.
-* **Mon rôle :** Conception de l'architecture Front-end, développement des pages institutionnelles et gestion du cycle de vie utilisateur (connexion, suppression RGPD).
+- **Technologies :** PHP (Architecture MVC), HTML5, CSS3, SQL.
+
+- **Fonctionnalités :** Back-office administrateur complet, système d'événements et d'actualités, gestion des inscriptions (individuelles/groupe), génération de listes PDF, espace membre sécurisé.
+
+- **Mon rôle :** Conception de l'architecture Front-end, développement des pages institutionnelles et gestion du cycle de vie utilisateur (connexion, suppression RGPD).
+
 
 #### 💣 [Bomberman - SAE 2.01](https://github.com/a24016284/SAE_201_G2_3/tree/main)
 > *Adaptation moderne du célèbre jeu d'arcade développée en JavaFX.*
 
-* **Technologies :** Java, JavaFX, CSS.
-* **Fonctionnalités :** Modes Solo (Survie) et Multijoueur, IA des ennemis, génération procédurale, personnalisation des skins.
-* **Mon rôle :** Développement de la logique de jeu et de l'interface utilisateur.
+- **Technologies :** Java, JavaFX, CSS.
+
+- **Fonctionnalités :** Modes Solo (Survie) et Multijoueur, IA des ennemis, génération procédurale, personnalisation des skins.
+
+- **Mon rôle :** Développement de la logique de jeu et de l'interface utilisateur.
+
 
 ---
 
@@ -49,6 +56,9 @@
 
 ### 📫 Me Contacter
 
+<a href="https://romain-cantor.netlify.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Mon_Site-000000?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
+</a>
 <a href="https://www.linkedin.com/in/romain-cantor-502805317/">
   <img src="https://img.shields.io/badge/LinkedIn-Romain_Cantor-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
