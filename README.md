@@ -47,7 +47,6 @@
 * 🎯 **Fonctionnalités :** Back-office administrateur complet, système d'événements et d'actualités, gestion des inscriptions (individuelles/groupe), génération de listes PDF, espace membre sécurisé.
 * 👤 **Mon rôle :** Conception de l'architecture Front-end, développement des pages institutionnelles et gestion du cycle de vie utilisateur (connexion, suppression RGPD).
 
-<br>
 
 ### 💣 [Bomberman - SAE 2.01](https://github.com/a24016284/SAE_201_G2_3/tree/main)
 > *Adaptation moderne du célèbre jeu d'arcade développée en JavaFX.*
@@ -55,6 +54,16 @@
 * ⚙️ **Technologies :** `Java` `JavaFX` `CSS`
 * 🎯 **Fonctionnalités :** Modes Solo (Survie) et Multijoueur, IA des ennemis, génération procédurale, personnalisation des skins.
 * 👤 **Mon rôle :** Développement de la logique de jeu et de l'interface utilisateur.
+
+
+### 🌱 [Smart Watering Application — Irrigation intelligente](https://github.com/Gustin-MAILHE/Smart_Watering_Application)
+> *Application web de suivi des cultures et de gestion de l’arrosage.*
+
+* ⚙️ **Technologies :** `Ruby on Rails` `Stimulus / Hotwire` `JavaScript` `CSS`
+* 🎯 **Fonctionnalités :** Création, renommage et suppression des zones de culture, association de capteurs de démonstration avec mesures simulées, sauvegarde locale des configurations et interface adaptée aux mobiles.
+* 👤 **Mon rôle :** Développement de la page Jardin et de son contrôleur Stimulus, gestion des zones et de leur persistance dans le navigateur, intégration des capteurs simulés et du thème Nature responsive.
+
+<br>
 
 ---
 
