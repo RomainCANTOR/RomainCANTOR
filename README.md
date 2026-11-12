@@ -74,6 +74,14 @@
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=RomainCANTOR&layout=compact&theme=tokyonight&locale=fr&hide_border=true" alt="Top Langs" height="180" />
 </div>
 
+
+## 🏆 Trophées GitHub
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=RomainCANTOR&theme=tokyonight&no-bg=true&no-frame=true&row=1&column=6" alt="Romain's Trophies" />
+</div>
+
+
 ---
 
 ## 📫 Me Contacter
